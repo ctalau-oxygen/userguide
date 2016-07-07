@@ -26,7 +26,7 @@
   code="ro.sync.ecss.samples.AuthorComponentSampleApplet"
   name="authorComponentAppletName" id="authorComponentApplet" 
   <b>MAYSCRIPT="true"</b>>
-    ...
+    …..
 &lt;/applet></codeblock></p>
     <note type="tip">If the applet is not working, or you cannot open documents from your SharePoint
       repository, enable the debugging tools that come bundled with your Web Browser or the Java
